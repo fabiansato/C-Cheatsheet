@@ -1,6 +1,8 @@
 # Cheatsheet + Documentación Programación en C
 
+```linux
 
+```
 ------------------------------
 ## Instalación en Windows
 
@@ -23,7 +25,30 @@ gcc --version
 
 ------------------------------
 ### Compilación en Linux
-
+creación de archivo
 ```linux
+nano hello.c
+```
+ejemplo:
+```c
+#include <stdio.h>
+int main()
+{
+  printf ("Hello World!\n");
+  return 0;
+}
 
 ```
+compilar en linux
+```linux
+gcc hello.c -o hello
+```
+
+ejecutar en linux
+```linux
+./hello
+```
+
+
+
+
