@@ -9,9 +9,21 @@
 ```linux
 sudo apt update
 ```
-
-```terminal
-sudo apt update
+luego
+```linux
+sudo apt install build-essential
 ```
+```linux
+sudo apt-get install manpages-dev
+```
+
+```linux
+gcc --version
+```
+
 ------------------------------
 ### Compilación en Linux
+
+```linux
+
+```
