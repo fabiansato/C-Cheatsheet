@@ -70,3 +70,4 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 70 --slave /u
 sudo update-alternatives --config gcc
 ```
 
+
