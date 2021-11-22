@@ -51,7 +51,7 @@ ejecutar en linux
 
 
 ------------------------------
-### Compilación en Linux
+### Distintas versiones de GCC en Linux
 Manipular distintas versiones de gcc
 ```linux
 sudo apt install software-properties-common
