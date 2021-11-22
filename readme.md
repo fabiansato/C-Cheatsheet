@@ -6,6 +6,12 @@
 
 ------------------------------
 ## Instalación en Linux
+```linux
+sudo apt update
+```
 
+```terminal
+sudo apt update
+```
 ------------------------------
 ### Compilación en Linux
