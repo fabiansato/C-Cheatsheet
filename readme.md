@@ -183,12 +183,26 @@ constantes enumaradas:
  enum Color favorit_color { Red, Orage, Yellow, Green, Blue, Purple}
 ```
 
-
+------------------------
 
 ### String literals
+
+En c no hay strings propiamente dicho, son arrays con chars dato por dato.
 ```c
- 
+ char STRING[] = "Programming in C" 
 ```
+
+
+------------------------
+
+### Define (preprocesor)
+
+Una directiva de preprocesador es una instrucción que recibe el compilador y le indica que hay ciertas acciones a realizar antes de iniciar a compilar el programa. Se insertan al principio de cada programa, y se identifican por estar precedidas por el caracter # 
+
+```c
+#include <stdio.h>
+```
+
 
 ---------------------
 ### Imprimir acentos
